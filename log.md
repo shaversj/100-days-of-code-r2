@@ -1,6 +1,6 @@
 |                              | 1                  | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 |------------------------------|--------------------|---|---|---|---|---|---|---|---|----|----|----|
-| Basics                       | null<br> null null |   |   |   |   |   |   |   |   |    |    |    |
+| Basics                       | csv |   |   |   |   |   |   |   |   |    |    |    |
 | Code Challenge               |                    |   |   |   |   |   |   |   |   |    |    |    |
 | Data Structures & Algorithms |                    |   |   |   |   |   |   |   |   |    |    |    |
 | Projects                     |                    |   |   |   |   |   |   |   |   |    |    |    |
@@ -20,14 +20,15 @@ Week 1 Plan:
 -----
 ### Day 1: April 26, 2020
 
-**Today's Focus**: Reading txt files in Python
+**Today's Focus**: Setup github repo and parse CSV files in Java and Python
 
-My answer to a code challenge from [Practice Python](http://www.practicepython.org/exercise/2014/12/06/22-read-from-file.html)
+My answer to a code challenge from [Real Python](https://realpython.com/python-interview-problem-parsing-csv-files/)
 
 **Details**:
 
-- Explored various ways to read a file in Python
+- As I was working on the solution, I wrote unit test while in Python.
 
-- I used Counter from the Collections module to calculate the number of images in the file. 
+- While using Java, I used BufferedReader to read the csv file. I also used myclassName.class.getResource(""")
+to determine the full path to a file in the resource folder.
 
 **Link to work**: [Github](days/01)
