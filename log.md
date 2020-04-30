@@ -32,3 +32,11 @@ My answer to a code challenge from [Real Python](https://realpython.com/python-i
 to determine the full path to a file in the resource folder.
 
 **Link to work**: [Github](days/01)
+
+### Day 2: April 30, 2020
+
+**Today's Focus**: Completed an Exercism code challenge in Java
+
+[Exercism Code Challenge Link](https://exercism.io/my/solutions/81a6fc6407f54ce698fe2c5545ec7f5d)
+
+**Link to work**: [Github](days/02)
