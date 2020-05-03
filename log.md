@@ -48,3 +48,11 @@ to determine the full path to a file in the resource folder.
 [Largest Series Product](https://exercism.io/my/solutions/8fd67724d073435d99adc50b839fe264)
 
 **Link to work**: [Github](days/03)
+
+### Day 4: May 3, 2020
+
+**Today's Focus**: Worked with Arrays in Java
+
+* Read Array Section in EoPI and read some in Data Structures in Algorithm's in Java book.
+
+**Link to work**: [Github](days/04)
