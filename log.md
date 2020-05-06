@@ -64,3 +64,7 @@ to determine the full path to a file in the resource folder.
 * [Code Exercise Link](https://teaching.csse.uwa.edu.au/units/CITS1200/Laboratories/Practice-Exercises/2d-arrays-practice.html)
 
 **Link to work**: [Github](days/05)
+
+### Day 6: May 6, 2020
+
+**Today's Focus**: Python Unit Testing / Environment Variables (Work)
