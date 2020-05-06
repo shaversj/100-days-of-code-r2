@@ -56,3 +56,11 @@ to determine the full path to a file in the resource folder.
 * Read Array Section in EoPI and read some in Data Structures in Algorithm's in Java book.
 
 **Link to work**: [Github](days/04)
+
+### Day 5: May 5, 2020
+
+**Today's Focus**: Began working on a 2D Array Code Exercise
+
+* [Code Exercise Link](https://teaching.csse.uwa.edu.au/units/CITS1200/Laboratories/Practice-Exercises/2d-arrays-practice.html)
+
+**Link to work**: [Github](days/05)
