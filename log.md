@@ -68,3 +68,9 @@ to determine the full path to a file in the resource folder.
 ### Day 6: May 6, 2020
 
 **Today's Focus**: Python Unit Testing / Environment Variables (Work)
+
+### Day 6: May 17, 2020
+
+**Today's Focus**: Leetcode MinStack problem
+
+**Link to work**: [Github](days/06)
