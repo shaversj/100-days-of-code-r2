@@ -74,3 +74,9 @@ to determine the full path to a file in the resource folder.
 **Today's Focus**: Leetcode MinStack problem
 
 **Link to work**: [Github](days/06)
+
+### Day 7: May 18, 2020
+
+**Today's Focus**: Linked List
+
+**Link to work**: [Github](days/07)
