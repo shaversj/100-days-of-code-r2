@@ -55,6 +55,23 @@ class LinkedList:
         # 6. Change the next of last node
         last.next = new_node
 
+    def pop_front(self):
+        # Remove entry from front of link list
+
+        curr_front = self.head
+        self.head = curr_front.next
+
+    # Function to reverse the linked list
+    def reverse(self):
+        prev = None
+        current = self.head
+        while current is not None:
+            next = current.next
+            current.next = prev
+            prev = current
+            current = next
+        self.head = prev
+
 
 llist = LinkedList()
 first_node = Node("a")
@@ -72,5 +89,17 @@ new_llist = LinkedList()
 new_llist.append("a")
 new_llist.append("b")
 new_llist.append("c")
+
+print(new_llist)
+
+new_llist.push("d")
+
+print(new_llist)
+
+new_llist.pop_front()
+
+print(new_llist)
+
+new_llist.reverse()
 
 print(new_llist)

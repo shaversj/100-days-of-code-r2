@@ -80,3 +80,9 @@ to determine the full path to a file in the resource folder.
 **Today's Focus**: Linked List
 
 **Link to work**: [Github](days/07)
+
+### Day 8: May 19, 2020
+
+**Today's Focus**: Linked List
+
+**Link to work**: [Github](days/08)
