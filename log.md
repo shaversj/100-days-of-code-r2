@@ -86,3 +86,9 @@ to determine the full path to a file in the resource folder.
 **Today's Focus**: Linked List
 
 **Link to work**: [Github](days/08)
+
+### Day 9: May 21, 2020
+
+**Today's Focus**: Leetcode
+
+**Link to work**: [Github](days/09)
