@@ -92,3 +92,11 @@ to determine the full path to a file in the resource folder.
 **Today's Focus**: Leetcode
 
 **Link to work**: [Github](days/09)
+
+### Day 10: May 22, 2020
+
+**Today's Focus**: Selenium Work Project
+
+* Created a selenium script using python for work.
+
+**Link to work**: [Github](days/09)
