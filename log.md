@@ -99,4 +99,11 @@ to determine the full path to a file in the resource folder.
 
 * Created a selenium script using python for work.
 
-**Link to work**: [Github](days/09)
+### Day 11: May 23, 2020
+
+**Today's Focus**: Converted Leetcode project from Day 9 to Java
+
+* Opening File, HashMap, Streams, File, Reading file from resource directory
+* Read about Enums
+
+**Link to work**: [Github](days/11)
