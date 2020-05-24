@@ -107,3 +107,9 @@ to determine the full path to a file in the resource folder.
 * Read about Enums
 
 **Link to work**: [Github](days/11)
+
+### Day 12: May 24, 2020
+
+**Today's Focus**: Find a Pythonic way to open a file in Java
+
+**Link to work**: [Github](days/12)
