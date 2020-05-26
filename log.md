@@ -113,3 +113,11 @@ to determine the full path to a file in the resource folder.
 **Today's Focus**: Find a Pythonic way to open a file in Java
 
 **Link to work**: [Github](days/12)
+
+### Day 13: May 26, 2020
+
+**Today's Focus**: Selenium Work Project
+
+* Updating the Selenium script to use a max # of workers. 
+* Updating the script to keeping a running list of updated ids.
+* Updated script to return the difference between original id list with the updated id list by using list(set(list1) - set(list2))
