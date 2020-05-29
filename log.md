@@ -121,3 +121,11 @@ to determine the full path to a file in the resource folder.
 * Updating the Selenium script to use a max # of workers. 
 * Updating the script to keeping a running list of updated ids.
 * Updated script to return the difference between original id list with the updated id list by using list(set(list1) - set(list2))
+
+### Day 14: May 29, 2020
+
+**Today's Focus**: HappyNumbers Leetcode
+
+* Learned how to use slow and fast pointer to find a cycle in a coding problem. 
+
+**Link to work**: [Github](days/14)
