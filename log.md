@@ -129,3 +129,9 @@ to determine the full path to a file in the resource folder.
 * Learned how to use slow and fast pointer to find a cycle in a coding problem. 
 
 **Link to work**: [Github](days/14)
+
+### Day 15: May 30, 2020
+
+**Today's Focus**: Alternate the case of each letter in a sentence.
+
+**Link to work**: [Github](days/15)
