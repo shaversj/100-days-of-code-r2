@@ -149,3 +149,9 @@ to determine the full path to a file in the resource folder.
 **Today's Focus**: Max difference
 
 **Link to work**: [Github](days/17)
+
+### Day 17: June 4, 2020
+
+**Today's Focus**: Find duplicate in array
+
+**Link to work**: [Github](days/18)
