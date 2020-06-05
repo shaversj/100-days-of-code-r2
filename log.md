@@ -135,3 +135,17 @@ to determine the full path to a file in the resource folder.
 **Today's Focus**: Alternate the case of each letter in a sentence.
 
 **Link to work**: [Github](days/15)
+
+### Day 16: June 1, 2020
+
+**Today's Focus**: Facebook Hackercup: Beautiful Strings
+
+* [Link to Problem and Solution](https://www.programminglogic.com/facebook-hacker-cup-2013-beautiful-strings-solution/)
+
+**Link to work**: [Github](days/16)
+
+### Day 17: June 4, 2020
+
+**Today's Focus**: Max difference
+
+**Link to work**: [Github](days/17)
