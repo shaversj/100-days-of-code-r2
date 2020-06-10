@@ -155,3 +155,13 @@ to determine the full path to a file in the resource folder.
 **Today's Focus**: Find duplicate in array
 
 **Link to work**: [Github](days/18)
+
+### Day 19: June 6, 2020
+
+**Today's Focus**: Balanced Smiley
+
+**Link to work**: [Github](days/19)
+
+### Day 20: June 10, 2020
+
+**Today's Focus**: Refactored work code and used Builder pattern to clean-up main.
