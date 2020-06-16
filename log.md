@@ -165,3 +165,7 @@ to determine the full path to a file in the resource folder.
 ### Day 20: June 10, 2020
 
 **Today's Focus**: Refactored work code and used Builder pattern to clean-up main.
+
+### Day 21: June 16, 2020
+
+**Today's Focus**: Coin change problem. Greedy Algorithms.
