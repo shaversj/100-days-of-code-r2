@@ -169,3 +169,11 @@ to determine the full path to a file in the resource folder.
 ### Day 21: June 16, 2020
 
 **Today's Focus**: Coin change problem. Greedy Algorithms.
+
+**Link to work**: [Github](days/21)
+
+### Day 22: June 18, 2020
+
+**Today's Focus**: Chain Reaction
+
+**Link to work**: [Github](days/22)
