@@ -177,3 +177,9 @@ to determine the full path to a file in the resource folder.
 **Today's Focus**: Chain Reaction
 
 **Link to work**: [Github](days/22)
+
+### Day 23: June 21, 2020
+
+**Today's Focus**: Exercism Series
+
+**Link to work**: [Github](days/23)
