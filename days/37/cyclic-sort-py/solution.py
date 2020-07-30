@@ -8,7 +8,6 @@ def cyclic_sort(nums):
             new_num = nums[nums[idx] - 1]
             nums[nums[idx] - 1] = nums[idx]
             nums[idx] = new_num
-
         else:
             idx += 1
 
@@ -21,3 +20,4 @@ def cyclic_sort(nums):
 
 print(cyclic_sort([3, 1, 5, 4, 2]))
 print(cyclic_sort([2, 6, 4, 3, 1, 5]))
+print(cyclic_sort([4, 0, 3, 1]))
