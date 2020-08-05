@@ -15,7 +15,7 @@
 
 -----
 Week 1 Plan:
-* Basics (Setup Repo, Read CSV, Read from console, EOCI Primitives)
+* Basics (Setup Repo, Read CSV, Read from console, EOCI Primitives.)
 
 -----
 ### Day 1: April 26, 2020
