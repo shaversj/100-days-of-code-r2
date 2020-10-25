@@ -187,3 +187,5 @@ to determine the full path to a file in the resource folder.
 ### Day xx: Oct 22, 2020
 
 **Today's Focus**: Created two selenium scripts in python at work.
+
+### Day xx: Oct 24, 2020
