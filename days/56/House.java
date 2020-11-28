@@ -48,10 +48,20 @@ class House{
     }
 
     String verses(int startVerse, int endVerse){
-        return "";
+        StringBuilder sb = new StringBuilder();
+
+        for(int verseNumber = startVerse; verseNumber <= endVerse; verseNumber++){
+            sb.append(verse(verseNumber)).append("\n");
+        }
+        return sb.toString().trim();
     }
 
     String sing(){
-        return "";
+        StringBuilder sb = new StringBuilder();
+
+        for(int verseNumber = 1; verseNumber <= 12; verseNumber++){
+            sb.append(verse(verseNumber)).append("\n");
+        }
+        return sb.toString().trim();
     }
 }
